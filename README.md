@@ -30,15 +30,8 @@ Vue.component('wxlogin', wxlogin);
 
 ## Nuxt SSR 
 <b> e.g </b> 
-1. 在nuxt.config.js
 ```
-plugins: ['src:'@/plugins/vue-next-wxlogin']
-```
-2. 在plugins新建文件vue-wxlogin.js
-```
-import Vue from 'vue';
-import wxlogin from 'vue-next-wxlogin/src/components/vue-next-wxlogin.vue';
-Vue.component('wxlogin', wxlogin);
+Nuxt3 目前处于测试阶段所以并没有测试如何使用，可以参考一下vue-wxlogin在Nuxt中如何使用
 ```
 
 ## Usage
