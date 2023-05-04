@@ -32,7 +32,7 @@ Vue.component('wxlogin', wxlogin);
 ## Nuxt SSR 
 <b> e.g </b> 
 ```
-Nuxt3 目前处于测试阶段所以并没有测试如何使用，可以参考一下vue-wxlogin在Nuxt中如何使用
+Nuxt3 没有测试如何使用，可以参考一下vue-wxlogin在Nuxt中如何使用
 ```
 
 ## Usage
