@@ -4,7 +4,9 @@
 >  no access to dom on the component, and no hook, so support srr; 组件中没有访问dom，并且没有使用hook，所以支持ssr  
 >  refer to Vue3; 适用Vue3      
 >  使用参数与微信官方文档一致
-url：https://open.weixin.qq.com/cgi-bin/showdocument?action=dir_list&t=resource/res_list&verify=1&id=open1419316505&token=30c517a18f2ddad39b899c7beb7163b98cc85d7c&lang=zh_CN
+url：
+> old https://open.weixin.qq.com/cgi-bin/showdocument?action=dir_list&t=resource/res_list&verify=1&id=open1419316505&token=30c517a18f2ddad39b899c7beb7163b98cc85d7c&lang=zh_CN
+> new https://developers.weixin.qq.com/doc/oplatform/Website_App/WeChat_Login/Wechat_Login.html
 
 ## Build Setup
 
